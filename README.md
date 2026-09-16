@@ -2,8 +2,6 @@
 
 > a roblox roguelike where the only way is up.
 
-been wanting to make something like this for a while, so here we are.
-
 **Ascend** is a co-op roguelike about climbing a tower that gets stranger the higher you go.
 
 fight, find stuff, make a build, pick where to go, keep climbing.
