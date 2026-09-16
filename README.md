@@ -1,86 +1,51 @@
 # ASCEND
 
-> **a roguelike where the only way is up.**
+> a roblox roguelike where the only way is up.
 
-Ascend is a Roblox co-op roguelite about climbing a mysterious tower.
+been wanting to make something like this for a while, so here we are.
 
-Every run is different. Every floor asks you to make a choice. Build your character, find strange synergies, fight your way upward, and find out what waits at the top.
+**Ascend** is a co-op roguelike about climbing a tower that gets stranger the higher you go.
 
----
+fight, find stuff, make a build, pick where to go, keep climbing.
 
-## ✦ THE RUN
-
-```text
-ENTER → CLIMB → ENCOUNTER → CHOOSE → BUILD → FIGHT → REWARD
-                                      ↑                 ↓
-                                      └─────── LOOP ────┘
-```
-
-Choose your path through combat rooms, elite encounters, shops, treasures, events, challenges, secrets, and more.
-
-The goal isn't just to survive.
-
-**It's to keep going.**
+that's pretty much the idea.
 
 ---
 
-## ⚔ BUILD YOUR RUN
+### the tower
 
-Your build changes as you climb.
+every run is different.
 
-- Weapons
-- Abilities
-- Passives
-- Relics
-- Temporary upgrades
-- Build synergies
-- Rare discoveries
+different floors, different paths, different things to find.
 
-The fun comes from discovering what works together.
+sometimes there's a shop.
 
----
+sometimes there's a boss.
 
-## 🏰 THE TOWER
+sometimes there's something that probably shouldn't be there.
 
-The tower isn't one place.
-
-Its floors can shift between forests, ruins, caverns, frozen halls, forgotten temples, strange mechanical spaces, and places that don't seem to belong anywhere at all.
-
-No two climbs should feel exactly the same.
+you just keep going up.
 
 ---
 
-## 👥 WITH FRIENDS
+### the idea
 
-Ascend is designed around **2–4 player co-op**.
+i wanted something i could actually see myself playing with friends.
 
-Fight together, combine abilities, revive fallen teammates, and turn completely different builds into a team that somehow works.
+something simple to get into, but with enough going on that every run can turn into something completely different.
 
----
-
-## 📖 DESIGN
-
-- [Core Fantasy](docs/Core-Fantasy.md)
-- [Design Pillars](docs/Design-Pillars.md)
-- [Core Loop](docs/Core-Loop.md)
-- [The Tower](docs/The-Tower.md)
-- [Floor Structure](docs/Floor-Structure.md)
-- [Combat](docs/Combat.md)
-- [Builds](docs/Builds.md)
-- [Rewards](docs/Rewards.md)
-- [Events](docs/Events.md)
-- [Bosses](docs/Bosses.md)
-- [Co-op](docs/Co-op.md)
-- [Roadmap](docs/Roadmap.md)
+mostly i just think the idea is cool.
 
 ---
 
-## 🛠 STATUS
+### status
 
-**Early design / pre-production**
+very early.
 
-Built around a small scope, strong identity, replayability, and a fun co-op experience.
+still figuring things out.
+
+eventually it'll be a game.
 
 ---
 
-*The tower goes up forever.*
+made with roblox studio.
