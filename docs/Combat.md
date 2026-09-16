@@ -1,6 +1,6 @@
 # Combat
 
-Combat should be responsive, readable, and satisfying without becoming difficult to understand.
+Combat should be responsive, readable, satisfying, and easy to understand while still allowing deep build interactions.
 
 ## Foundations
 
@@ -9,19 +9,72 @@ Combat should be responsive, readable, and satisfying without becoming difficult
 - Enemy behavior should be readable.
 - Abilities should have distinct purposes.
 - Damage and status effects should be understandable.
+- Builds should change how combat is played, not only damage numbers.
 
-## Possible Combat Kit
+## Starting Combat Kit
 
-- Light attack
-- Heavy attack
-- Dodge / movement option
-- Active abilities
-- Ultimate or high-impact ability
-- Status effects
-- Build-specific interactions
+Players begin a run with:
 
-The exact combat model is intentionally not locked yet.
+- 1 basic weapon
+- 1 basic ability
+- Dodge
+- Basic stats
 
-## Build Interaction
+There are no permanent combat classes.
 
-Combat is where the run's decisions become tangible. A build should change positioning, timing, target priority, ability usage, or risk—not only damage numbers.
+## Combat Layers
+
+### Weapon
+
+Defines the player's basic attack pattern.
+
+### Abilities
+
+Provide active tools such as control, mobility, area damage, buffs, and utility.
+
+### Relics
+
+Modify interactions between the player's tools.
+
+### Mutations
+
+Rare discoveries that can push a build into a new playstyle.
+
+### Map Mechanics
+
+The current map can introduce environmental rules that affect combat.
+
+## First Garden Weapons
+
+### Wayfarer's Blade
+
+Fast, reliable sword with a basic combo and heavy forward slash.
+
+### Rootbreaker
+
+Slow hammer with large hitboxes, high stagger, and a shockwave heavy attack. Can interact with certain Garden obstacles.
+
+### Thornbow
+
+Chargeable ranged weapon focused on precision. Charged shots can pierce enemies.
+
+### Thornwhip
+
+Garden-exclusive weapon that can pull enemies and create roots with its heavy attack.
+
+## First Garden Abilities
+
+- **Vine Lash** — pulls and briefly roots an enemy.
+- **Rootstep** — short teleport that leaves roots behind.
+- **Poison Bloom** — plants a flower that releases a poison cloud.
+- **Briar Crash** — area attack that creates roots.
+- **Hunter's Instinct** — temporary attack-speed and mark-based buff.
+- **Ancient Growth** — ultimate that creates a temporary supportive tree.
+
+## Garden Combat
+
+Garden enemies should interact with the environment.
+
+Roots, flowers, vines, and Garden Growth can alter positioning and target priority.
+
+As the player climbs, the environment should increasingly become part of the fight.
